@@ -64,7 +64,7 @@ streamlit run ./app.py
 
 ## 📬 Contact
 #### **GitHub:**
-- arunhegde_18
+- Arun-Hegde
 
 #### **Email:**
 - arunhegde697@gmail.com
