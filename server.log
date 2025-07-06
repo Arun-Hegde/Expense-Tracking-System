@@ -1,0 +1,135 @@
+2025-05-08 17:34:32,411 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 17:34:32,441 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-08 17:35:48,496 - INFO - fetch_expenses_for_date called with date:2024-09-25
+2025-05-08 17:35:48,525 - INFO - fetch_expense_summary called with start:2024-08-15,end:2024-08-18
+2025-05-08 17:36:04,234 - INFO - fetch_expenses_for_date called with date:2024-09-30
+2025-05-08 17:36:04,264 - INFO - fetch_expense_summary called with start:2024-08-15,end:2024-08-18
+2025-05-08 17:40:01,431 - INFO - fetch_expenses_for_date called with date:2024-09-30
+2025-05-08 17:40:01,462 - INFO - fetch_expense_summary called with start:2024-08-15,end:2024-08-18
+2025-05-08 17:40:42,814 - INFO - fetch_expenses_for_date called with date:2024-09-20
+2025-05-08 17:40:42,841 - INFO - fetch_expense_summary called with start:2024-08-15,end:2024-08-18
+2025-05-08 17:58:30,223 - INFO - fetch_expenses_for_date called with date:2024-08-05
+2025-05-08 17:58:38,114 - INFO - delete_expenses_for_date called with date:2024-08-28
+2025-05-08 17:58:38,126 - INFO - insert_expense called with date:2024-08-28,amount:100.0,category:Food,notes:Test Expense
+2025-05-08 17:58:38,134 - INFO - insert_expense called with date:2024-08-28,amount:2000.0,category:Shopping,notes:Bought A RC Car
+2025-05-08 18:58:29,902 - INFO - fetch_expenses_for_date called with date:2024-08-02
+2025-05-08 18:58:37,385 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:24:07,192 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:24:26,435 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:24:59,510 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:25:24,813 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:47:20,452 - INFO - fetch_expenses_for_date called with date:2024-08-05
+2025-05-08 19:47:29,412 - INFO - delete_expenses_for_date called with date:2024-08-28
+2025-05-08 19:47:29,436 - INFO - insert_expense called with date:2024-08-28,amount:100.0,category:Food,notes:Test Expense
+2025-05-08 19:47:29,456 - INFO - insert_expense called with date:2024-08-28,amount:2000.0,category:Shopping,notes:Bought A RC Car
+2025-05-08 19:48:05,871 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:49:37,130 - INFO - fetch_expenses_for_date called with date:2024-08-02
+2025-05-08 19:50:24,835 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 19:50:30,685 - INFO - fetch_expenses_for_date called with date:2024-08-02
+2025-05-08 20:04:32,700 - INFO - fetch_expenses_for_date called with date:2024-08-02
+2025-05-08 20:04:41,587 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:04:59,224 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:13:06,629 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:13:45,254 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-08 20:13:49,944 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:15:06,438 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:15:44,821 - INFO - fetch_expenses_for_date called with date:2024-08-02
+2025-05-08 20:15:49,473 - INFO - fetch_expenses_for_date called with date:2024-08-05
+2025-05-08 20:15:53,396 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:18:41,207 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:20:20,146 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-08 20:20:22,241 - INFO - delete_expenses_for_date called with date:2024-08-07
+2025-05-08 20:20:22,253 - INFO - insert_expense called with date:2024-08-07,amount:300.0,category:Rent,notes:PG Rent
+2025-05-08 20:20:22,273 - INFO - insert_expense called with date:2024-08-07,amount:1500.0,category:Shopping,notes:Bought PS5
+2025-05-11 17:34:45,599 - INFO - fetch_expense_summary called with start:2024-08-02,end:2024-08-04
+2025-05-11 17:36:04,682 - INFO - fetch_expense_summary called with start:2024-08-02,end:2024-08-04
+2025-05-11 17:36:15,120 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-11 17:36:22,461 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:51:25,888 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:51:32,889 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:51:36,893 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:59:13,165 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:59:16,940 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 17:59:46,537 - INFO - fetch_expense_summary called with start:2024-08-02,end:2024-08-04
+2025-05-11 18:00:21,469 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:00:23,596 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:10:37,583 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:10:39,657 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:11:34,680 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:11:36,744 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:17:35,246 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:17:37,322 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:18:05,627 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:18:07,759 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:19:16,633 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:19:18,735 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:19:24,555 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:19:26,637 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:25:30,111 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:25:32,214 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:25:56,559 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:25:58,643 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 18:26:32,013 - INFO - fetch_expenses_for_date called with date:2024-08-07
+2025-05-11 18:26:34,105 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-11 23:45:58,798 - INFO - fetch_expense_summary called with start:2024-08-02,end:2024-08-04
+2025-05-11 23:46:13,966 - INFO - fetch_expense_summary called with start:2024-08-02,end:2024-08-04
+2025-05-11 23:46:33,690 - INFO - analytics_by_month called with all months
+2025-05-11 23:47:31,356 - INFO - analytics_by_month called with all months
+2025-05-11 23:48:06,301 - INFO - analytics_by_month called with all months
+2025-05-11 23:49:40,143 - INFO - analytics_by_month called with all months
+2025-05-11 23:54:54,848 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-11 23:54:56,988 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:02:19,121 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:02:21,231 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:02:23,324 - INFO - analytics_by_month called with all months
+2025-05-12 00:03:35,812 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:03:37,905 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:03:40,002 - INFO - analytics_by_month called with all months
+2025-05-12 00:04:25,145 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:04:27,259 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:04:29,367 - INFO - analytics_by_month called with all months
+2025-05-12 00:08:26,811 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:08:28,905 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:08:30,973 - INFO - analytics_by_month called with all months
+2025-05-12 00:10:30,341 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:10:32,444 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:10:34,548 - INFO - analytics_by_month called with all months
+2025-05-12 00:16:45,495 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:16:47,555 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:16:49,634 - INFO - analytics_by_month called with all months
+2025-05-12 00:18:43,609 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:18:45,716 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:18:47,777 - INFO - analytics_by_month called with all months
+2025-05-12 00:19:11,096 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:19:13,202 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:19:15,295 - INFO - analytics_by_month called with all months
+2025-05-12 00:20:18,343 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:20:20,457 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:20:22,546 - INFO - analytics_by_month called with all months
+2025-05-12 00:20:57,270 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:20:59,358 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:21:01,447 - INFO - analytics_by_month called with all months
+2025-05-12 00:24:09,571 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:24:11,656 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:24:13,721 - INFO - analytics_by_month called with all months
+2025-05-12 00:25:14,353 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:25:16,486 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:25:18,572 - INFO - analytics_by_month called with all months
+2025-05-12 00:26:23,870 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:26:25,959 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:26:28,073 - INFO - analytics_by_month called with all months
+2025-05-12 00:27:40,778 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:27:42,890 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:27:44,980 - INFO - analytics_by_month called with all months
+2025-05-12 00:28:40,205 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:28:42,318 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:28:44,408 - INFO - analytics_by_month called with all months
+2025-05-12 00:29:40,036 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 00:29:42,090 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 00:29:44,167 - INFO - analytics_by_month called with all months
+2025-05-12 09:09:07,204 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 09:09:09,437 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 09:09:12,176 - INFO - analytics_by_month called with all months
+2025-05-12 09:10:03,996 - INFO - fetch_expenses_for_date called with date:2024-08-01
+2025-05-12 09:10:06,060 - INFO - fetch_expense_summary called with start:2024-08-01,end:2024-08-05
+2025-05-12 09:10:08,141 - INFO - analytics_by_month called with all months
