@@ -25,7 +25,9 @@ A simple, modular, and visually enhanced Python-based Expense Tracking System th
 Project-Expense-Tracking-System/
 ├── backend/
 │   ├── server.py (FastAPI server)
-│   ├── models.py, database.py, routers/
+│   ├── db_helper.py
+│   ├── logging_setup.py
+│   ├── server.log
 ├── frontend/
 │   ├── app.py (Streamlit main UI)
 │   ├── add_update.py
@@ -33,7 +35,8 @@ Project-Expense-Tracking-System/
 │   ├── analytics_by_month.py
 │   ├── dashboard.py
 ├── test/
-│   ├── backend/
+│   ├── conftest.py
+│   ├── backend/ test_db_helper.py
 │   └── frontend/
 ├── Screenshots/
 ├── requirements.txt
@@ -92,16 +95,9 @@ pytest
 ## 🖼️ Screenshots
 
 ### ➕ Add / Update Tab
-![Add_Update](./frontend/screenshots/Add_Update.png)
-
 ### 📊 Category-wise Analytics
-![Analytics_by_category](./frontend/screenshots/Analytics_by_category.png)
-
 ### 📅 Monthly Analytics
-![Monthly_expense](./frontend/screenshots/monthly_expense_overview.png)
-
 ### 📋 Dashboard with Budget Alert
-![Dashboard](./frontend/screenshots/expense_summary_with_alert.png)
 
 
 ## 📬 Contact
