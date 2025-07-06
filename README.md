@@ -59,9 +59,6 @@ streamlit run ./app.py
 - **Add your and expenses**
 - **View summaries and reports**
 
-## 📄 License
-### **This project is licensed under the MIT License.**
-
 ## 📬 Contact
 #### **GitHub:**
 - Arun-Hegde
