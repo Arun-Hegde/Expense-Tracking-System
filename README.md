@@ -101,5 +101,5 @@ pytest
 
 
 ## 📬 Contact
-- **GitHub:** [arunhegde_18](https://github.com/arunhegde_18)
+- **GitHub:** [Arun-Hegde](https://github.com/Arun-Hegde)
 - **Email:** arunhegde697@gmail.com
