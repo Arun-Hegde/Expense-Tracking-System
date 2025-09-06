@@ -100,6 +100,11 @@ pytest
 ### 📋 Dashboard with Budget Alert
 
 
-## 📬 Contact
-- **GitHub:** [Arun-Hegde](https://github.com/Arun-Hegde)
-- **Email:** arunhegde697@gmail.com
+## 🙋‍♂️ Author
+
+Developed by **Arun Hegde**  
+📎 [GitHub Profile](https://github.com/Arun-Hegde)
+
+Feel free to ⭐ the repo or connect on GitHub!
+
+---
